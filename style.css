@@ -1,0 +1,39 @@
+body{
+    background-color: #000;
+}
+.card{
+    /* background-color: rgb(255, 255, 255); */
+    width: 30%;
+    color: #fff;
+    min-height: 22vh;
+    align-items: center;
+    border-radius: 12px;
+    margin: 0 auto;
+}
+.card:hover{
+    box-shadow: 1px 1px 25px rgb(55, 81, 83);
+}
+input {
+    font-size: 30px;
+}
+
+button{
+    font-size: 30px;
+}
+h1{
+    font-size: 40px;
+    position: relative;
+    top: 20px;
+    margin-top: 60%;
+
+}
+label{
+    
+    font-size: 40px;
+
+}
+#currentAge{
+    font-size: 25px;
+
+}
+
